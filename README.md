@@ -1,10 +1,7 @@
 Hi 👋 My name is Egor
 =====================
 
-Im a network programmer. In the future I want to develop either in Java or C++, I haven’t decided yet. But I do various projects.
-
-* 🧠  I'm learning Java Spring, C++
-* 🤝  I'm open to collaborating on WEB projects, desktop apps or low-level system programs
+I'm learning to create games on Unreal Engine 5, I have a good understanding of OOP application architecture, and I'm studying C++ in particular.
 
 ### Learn
 
