@@ -14,6 +14,7 @@ I am involved in Java development. Sometimes I touch on technologies such as .NE
 ### Tools and Frameworks: 
   #### Java: Spring (Boot, Web, Data), REST, JPA
   #### C++: Unreal Engine 5 API, CMake, SFML
+  #### Tools: IDEA, CLion, Visual Studio
 
 ### Socials
 
