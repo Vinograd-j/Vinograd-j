@@ -1,7 +1,7 @@
 Hi 👋 My name is Egor
 =====================
 
-I am involved in Java development. Sometimes I touch on technologies such as .NET and C++.
+I am involved in Java development. Sometimes I use C++
 
 ### Considering
 
