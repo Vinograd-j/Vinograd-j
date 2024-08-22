@@ -13,7 +13,7 @@ I am involved in Java development. Sometimes I use C++
 
 ### Tools and Frameworks: 
   #### Java: Spring (Boot, Web, Data), REST, JPA
-  #### C++: Unreal Engine 5 API, CMake, SFML, TGUI
+  #### C++: MinGW, CMake, SFML, TGUI, nlohmann::json
   #### Tools: IDEA, CLion, Visual Studio
 
 ### Socials
