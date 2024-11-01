@@ -1,7 +1,7 @@
 Hi 👋 My name is Egor
 =====================
 
-I am involved in Java development. Sometimes I use C++
+I am involved in network development and I also love creating games. I write in Java and C++.
 
 ### Considering
 
