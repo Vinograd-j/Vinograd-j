@@ -12,8 +12,8 @@ I am involved in network development and I also love creating games. I write in 
 </p>
 
 ### Tools and Frameworks: 
-  #### Java: Spring 
-  #### C++: MinGW, CMake, SFML, TGUI, nlohmann::json, trying with Boost.Asio, a little about UE5 API
+  #### Java: trying Spring 
+  #### C++: MinGW, CMake, SFML, TGUI, nlohmann::json, trying with Vulkan, a little about UE5 API
   #### Tools: IDEA, CLion, Visual Studio
 
 ### Socials
