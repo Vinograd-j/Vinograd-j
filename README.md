@@ -1,7 +1,7 @@
 Hi 👋 My name is Egor
 =====================
 
-I am involved in network development and I also love creating games. I write in Java and C++.
+I am involved in Vulkan and non-Vulkan graphics development. I write in Java and C++.
 
 ### Considering
 
@@ -12,10 +12,12 @@ I am involved in network development and I also love creating games. I write in 
 </p>
 
 ### Tools and Frameworks: 
-  #### Java: trying Spring 
-  #### C++: MinGW, CMake, SFML, TGUI, nlohmann::json, trying with Vulkan, a little about UE5 API
+  #### C++: MinGW, CMake, SFML, TGUI, nlohmann::json, trying with Vulkan, not good in STL and standarts :(
+  #### Java: tryed Spring 
   #### Tools: IDEA, CLion, Visual Studio
 
 ### Socials
+[YouTube](https://www.youtube.com/@vinograd_cpp "YouTube")
+<p></p>
 
-<p align="left"> <a href="https://discord.com/users/vinograd_1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/vinograd-j" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/21179376/vinograd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@vinograd_cpp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+[Discord](https://discord.com/users/vinograd_1 "Discord")
