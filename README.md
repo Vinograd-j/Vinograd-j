@@ -10,7 +10,7 @@ I am involved in Vulkan and non-Vulkan graphics development. I write in Java and
 ### Tools and Frameworks: 
   #### C++: MinGW, CMake, SFML, TGUI, nlohmann::json, trying with Vulkan, not good in STL and standarts :(
   #### Java: tryed Spring 
-  #### Tools: IDEA, CLion, Visual Studio
+  #### Tools: IDEA, CLion, Visual Studio, CMake (not Make)
 
 ### Socials
 [YouTube](https://www.youtube.com/@vinograd_cpp "YouTube")
