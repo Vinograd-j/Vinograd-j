@@ -11,7 +11,7 @@ Hi 👋 My name is Egor
 
 ## Tools and Frameworks: 
   -  ### C++: MinGW, CMake, SFML, TGUI, nlohmann::json, trying with Vulkan, not good in STL and standarts :(
-  -  ### Java: tryed Spring 
+  -  ### Java: tried Spring 
   -  ### Tools: IDEA, CLion, Visual Studio, CMake (not Make)
 ------------
 ### Socials
