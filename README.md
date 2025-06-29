@@ -1,7 +1,7 @@
 Hi 👋 My name is Egor
 =====================
 
-### I am involved in Vulkan and non-Vulkan graphics development. I write in Java and C++.
+### I am involved in Vulkan and non-Vulkan graphics development and also in Spring. I write in Java and C++.
 
 ------------
 
@@ -12,7 +12,6 @@ Hi 👋 My name is Egor
 ## Tools and Frameworks: 
   -  ### C++: MinGW, CMake, SFML, TGUI, nlohmann::json, trying with Vulkan, not good in STL and standarts :(
   -  ### Java: tried Spring 
-  -  ### Tools: IDEA, CLion, Visual Studio, CMake (not Make)
 ------------
 ### Socials
 [YouTube](https://www.youtube.com/@vinograd_cpp "YouTube")
